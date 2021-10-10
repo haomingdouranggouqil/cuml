@@ -1,7 +1,7 @@
 # mlcu
 ## An incomplete machine learning library which supporting GPU
 #### 目前尚不完善，将来拟增加AI/NLP/CV相关算法
-## 在大量数据环境下，cuml的速度会是sklearn相同算法的数倍甚至数十倍。
+## 在大量数据环境下，mlcu的速度会是sklearn相同算法的数倍甚至数十倍。
 #### 环境：Windows10，python3.9，NVIDIA 3060
 |algorithm|scale |mlcu  |sklearn|
 | ---- | ---- | ---- |----   |
